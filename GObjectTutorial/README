@@ -1,0 +1,4 @@
+The code is based on http://syscall.org/doku.php/gobjectutorial/start
+
+To enable debug message, do
+$ G_MESSAGES_DEBUG=all ./main
